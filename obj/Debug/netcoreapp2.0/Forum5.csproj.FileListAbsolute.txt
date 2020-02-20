@@ -1,0 +1,12 @@
+C:\Users\Family\source\repos\Forum5\Forum5\bin\Debug\netcoreapp2.0\Forum5.deps.json
+C:\Users\Family\source\repos\Forum5\Forum5\bin\Debug\netcoreapp2.0\Forum5.runtimeconfig.json
+C:\Users\Family\source\repos\Forum5\Forum5\bin\Debug\netcoreapp2.0\Forum5.runtimeconfig.dev.json
+C:\Users\Family\source\repos\Forum5\Forum5\bin\Debug\netcoreapp2.0\Forum5.dll
+C:\Users\Family\source\repos\Forum5\Forum5\bin\Debug\netcoreapp2.0\Forum5.pdb
+C:\Users\Family\source\repos\Forum5\Forum5\obj\Debug\netcoreapp2.0\Forum5.csprojAssemblyReference.cache
+C:\Users\Family\source\repos\Forum5\Forum5\obj\Debug\netcoreapp2.0\Forum5.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\Forum5\Forum5\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Family\source\repos\Forum5\Forum5\obj\Debug\netcoreapp2.0\Forum5.AssemblyInfoInputs.cache
+C:\Users\Family\source\repos\Forum5\Forum5\obj\Debug\netcoreapp2.0\Forum5.AssemblyInfo.cs
+C:\Users\Family\source\repos\Forum5\Forum5\obj\Debug\netcoreapp2.0\Forum5.dll
+C:\Users\Family\source\repos\Forum5\Forum5\obj\Debug\netcoreapp2.0\Forum5.pdb
